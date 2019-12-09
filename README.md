@@ -8,3 +8,14 @@ In week 4 of Essential Design Principles for Tableau, we have an assignment that
 
 
 I have sorted the sub-categories based on the field of profit ratio. I have put the loss making units at the top and since we have sorted the data, it is easy for us to know what the 3 top loss making units are. I have also labelled the data so that the right information can be known. I have put the percentage form, and accordingly know how much loss we are seeing.
+
+
+**How to use this repository?**
+
+In this I have put 2 files, Persona and Tableau.
+
+Persona: This describes what our target audience wants to see in the data visualization.
+
+Tableau: Since I have used the Tableau Software, I have put the online link to the visualization. You can download the links and then use it. 
+
+Thanks a Lot!!!!!

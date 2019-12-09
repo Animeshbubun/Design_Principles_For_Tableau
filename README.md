@@ -12,10 +12,12 @@ I have sorted the sub-categories based on the field of profit ratio. I have put 
 
 **How to use this repository?**
 
-In this I have put 2 files, Persona and Tableau.
+In this I have put 2 files, Persona,Tableau and Sales_Superstore.
 
 Persona: This describes what our target audience wants to see in the data visualization.
 
 Tableau: Since I have used the Tableau Software, I have put the online link to the visualization. You can download the links and then use it. 
+
+Sales_Superstore: Dataset
 
 Thanks a Lot!!!!!

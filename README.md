@@ -5,4 +5,6 @@ In week 4 of Essential Design Principles for Tableau, we have an assignment that
 4. Parameters used: We have compared the profit ratio and looked after the loss making units based on the profit ratio.
 
 **How to use the visualization?**
+
+
 I have sorted the sub-categories based on the field of profit ratio. I have put the loss making units at the top and since we have sorted the data, it is easy for us to know what the 3 top loss making units are. I have also labelled the data so that the right information can be known. I have put the percentage form, and accordingly know how much loss we are seeing.
